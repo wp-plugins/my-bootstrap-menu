@@ -23,38 +23,38 @@ More information here: [My Bootstrap Menu](http://www.codetoolbox.net/wordpress/
 
 == Features ==
 Fully customizable labels, logos, icons, formatting and alignment make this the most user and developer friendly menu tool. Additional styles have been included to tweak basic formatting issues when using Bootstrap navbars with Wordpress. Each Menu can be Bootstrapped and configured with settings:
-* Choose your menu type
-    * Navbar
-    * Tabs
-    * Pills
-    * Buttons
-    * Button Group
-* Select a menu location
-    * Fixed to the top of the screen
-    * Fixed to the bottom
-    * Static Top
-* Choose to display:
-    * Title
-    * Logo
-    * Login, Register
-    * Search
-* Upload a custom Logo
-    * Optional logo for the Mobile version
-* Custom Search box
-    * Select a Glyhpicon, button type and labels
-    * Choose default text for the search input box
-* Custom Login and Register buttons
-    * Select Glyphicons and label text
-* Formatting
-    * Align any/all menu elements left or right!
-    * Customize the button menu style
-    * Customize Sub-menu dropdowns and links
-* Advanced Options!
-    * Optional container classes
-    * Include Wordpress default classes or not
-    * Optional fixes for fixed top menus
-* All files included
-    * Select whether to load the included versions of Boostrap and custom css.
+= Choose your menu type =
+* Navbar
+* Tabs
+* Pills
+* Buttons
+* Button Group
+= Select a menu location =
+* Fixed to the top of the screen
+* Fixed to the bottom
+* Static Top
+= Choose to display: =
+* Title
+* Logo
+* Login, Register
+* Search
+= Upload a custom Logo =
+* Optional logo for the Mobile version
+= Custom Search box = 
+* Select a Glyhpicon, button type and labels
+* Choose default text for the search input box
+= Custom Login and Register buttons =
+* Select Glyphicons and label text
+= Formatting =
+* Align any/all menu elements left or right!
+* Customize the button menu style
+* Customize Sub-menu dropdowns and links
+Advanced Options!
+* Optional container classes
+* Include Wordpress default classes or not
+* Optional fixes for fixed top menus
+All files included
+* Select whether to load the included versions of Boostrap and custom css.
 
 == Installation ==
 
@@ -100,6 +100,9 @@ Yes, this plugin works fine with WordPress 4.2.2
 == Changelog ==
 = 1.0 =
  First release!
+
+ == Upgrade Notice ==
+N/A
 
 == About us ==
 This plugin has been developed by Michael Carder Ltd. It is is built on the ['My Plugin Settings'](http://www.codetoolbox.net/wordpress/wordpress-plugins/my-plugin-settings/) framework which creates simple and intuitive user interfaces for input forms; including media dialogues and the popup selection of [Bootstrap Glyphicons](http://glyphicons.com/).
