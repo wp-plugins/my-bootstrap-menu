@@ -21,7 +21,7 @@ Works with all levels of Sub-menus! These were removed from Bootstrap in version
 
 More information here: [My Bootstrap Menu](http://www.codetoolbox.net/wordpress/wordpress-plugins/my-bootstrap-menu/)
 
-== Features ==
+= Features =
 Fully customizable labels, logos, icons, formatting and alignment make this the most user and developer friendly menu tool. Additional styles have been included to tweak basic formatting issues when using Bootstrap navbars with Wordpress. Each Menu can be Bootstrapped and configured with settings:
 = Choose your menu type =
 * Navbar
