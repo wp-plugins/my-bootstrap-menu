@@ -99,6 +99,9 @@ Yes, this plugin works fine with WordPress 4.2.2
 
 == Changelog ==
 
+= 1.0.3 =
+Fixes for Wordpress 4.3.0 compatibility. Menu names being returned as menu objects in the latest WP release.
+
 = 1.0.2 =
 Enhanced functionality for setting Main Menu Items as links when they have child/submenu items.
 This will change the behaviour when selecting 'Submenu headings are links' so that submenus appear on mouse-over and menu items open on click.
